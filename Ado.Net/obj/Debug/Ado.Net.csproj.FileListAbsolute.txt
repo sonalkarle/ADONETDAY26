@@ -28,3 +28,5 @@ C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\obj\Debug\Ado.Net
 C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\obj\Debug\Ado.Net.csproj.CopyComplete
 C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\obj\Debug\Ado.Net.exe
 C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\obj\Debug\Ado.Net.pdb
+C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\source\repos\fileIO\ADO.NETDay26\Ado.Net\Ado.Net\bin\Debug\System.Data.SqlClient.xml
